@@ -1,11 +1,11 @@
 import express from "express";
 
 import {
-  acceptFriendRequest,
-  sendFriendRequest,
-  declineFriendRequest,
-  getAllFriends,
-  getFriendRequests,
+    acceptFriendRequest,
+    sendFriendRequest,
+    declineFriendRequest,
+    getAllFriends,
+    getFriendRequests,
 } from "../controllers/friendController.js";
 
 const router = express.Router();
