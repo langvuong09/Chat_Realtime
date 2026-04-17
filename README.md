@@ -108,17 +108,5 @@ Hệ thống được thiết kế theo mô hình **Client-Server** với sự k
 
 ---
 
-## 👨‍🏫 Thông tin khóa học & Nhóm thực hiện
-*   **Môn học:** Các công nghệ lập trình hiện đại
-*   **Đề tài:** Nghiên cứu và xây dựng hệ thống Chat Real-time dựa trên kiến trúc Micro-services và WebSockets.
-*   **Nhóm thực hiện:** Nhóm CNCNLTHD-nhóm 22
-*   **Thành viên:**
-    1. Cao Tiến Cường - 3122410043
-    2. Hà Thanh Khánh - 3122410178
-    3. [Họ và Tên SV 3] - [MSSV]
-    4. [Họ và Tên SV 3] - [MSSV]
-
----
-
 ## 📄 Giấy phép & Cam kết
 Mã nguồn này được phát triển cho mục tiêu học thuật, nghiên cứu và báo cáo cuối kỳ của môn học. Mọi hành vi sao chép cho mục đích thương mại đều không được khuyến khích.
